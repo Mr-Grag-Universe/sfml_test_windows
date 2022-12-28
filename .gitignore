@@ -1,0 +1,4 @@
+cmake*
+libs/boost
+libs/glfw-3.3.8
+libs/SFML
